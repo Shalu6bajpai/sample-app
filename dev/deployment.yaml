@@ -17,4 +17,3 @@ spec:
         image: us-west1-docker.pkg.dev/qwiklabs-gcp-00-ce67ee9cd72f/my-repository/sample-app:v1.0
         ports:
         - containerPort: 8080
-    
